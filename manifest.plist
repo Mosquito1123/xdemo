@@ -11,31 +11,31 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>【xxxxx】</string>
+                    <string>https://github.com/Mosquito1123/xdemo/raw/master/impcloud_dev.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>【xxxxx】</string>
+                    <string>https://cdn.jsdelivr.net/gh/flutterchina/website@1.0/images/flutter-mark-square-100.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>【xxxxx】</string>
+                    <string>https://cdn.jsdelivr.net/gh/flutterchina/website@1.0/images/flutter-mark-square-100.png</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>【xxxxx】</string>
+                <string>com.kailuan.impcloud</string>
                 <key>bundle-version</key>
-                <string>【xxxxx】</string>
+                <string>4.8.10</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>【xxxxx】</string>
+                <string>开滦云+</string>
             </dict>
         </dict>
     </array>
