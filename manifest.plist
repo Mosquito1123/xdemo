@@ -17,13 +17,13 @@
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://www.baidu.com</string>
+                    <string>https://cdn.jsdelivr.net/gh/flutterchina/website@1.0/images/flutter-mark-square-100.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>https://www.baidu.com</string>
+                    <string>https://cdn.jsdelivr.net/gh/flutterchina/website@1.0/images/flutter-mark-square-100.png</string>
                 </dict>
             </array>
             <key>metadata</key>
