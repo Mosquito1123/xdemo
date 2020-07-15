@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>【xxxxx】</string>
+                    <string>https://tjc-download.weiyun.com/ftn_handler/a17e18fa2efb05f05049bb5188748b1d1fff7a260e9552ba3ab84522670e700dd1b0935d7292db9e85f73c0d277030ec53c5ebc18f4fe9ba60366b09add2ac30/impcloud_dev.ipa?fname=impcloud_dev.ipa&from=30013&version=3.3.3.3</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -29,13 +29,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>【xxxxx】</string>
+                <string>com.kailuan.impcloud</string>
                 <key>bundle-version</key>
-                <string>【xxxxx】</string>
+                <string>4.8.10</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>【xxxxx】</string>
+                <string>开滦云+</string>
             </dict>
         </dict>
     </array>
